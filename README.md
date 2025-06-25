@@ -2,11 +2,8 @@
 
 
 import random
-
-
 def jugar():
-   
-  while True
+   while True
     jugador = input("ingrese (papel, piedra,  tijeras) o ¨salir¨ para dejar de jugar: ").strip().lower()
     if jugador =="salir":
         print("gracias por jugar ")
